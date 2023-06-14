@@ -50,10 +50,7 @@ You can find more about me and my projects on my
 
 ---
 
-### 🔥: My Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=rishabhjamwal&show_icons=true"/>
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
