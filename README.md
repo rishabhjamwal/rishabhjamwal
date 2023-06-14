@@ -34,7 +34,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’ve graduated as a Software Engineer in 2023.
-- 🗣 I am fascinated by the focal point ro focus on full-stack development of Dapps in Defi, metaverse and NFT space
+- 🗣 I am fascinated by the focal point focus on full-stack development of Dapps in Defi, metaverse and NFT space
 - 👨‍💼 Currently working on Using Distributed Oracle Networks to interact with off-chain data and
 verification of academic credentials from NAD, ABC and university databases.  <a href="https://github.com/rishabhjamwal/Chainlink-functions-Post">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
